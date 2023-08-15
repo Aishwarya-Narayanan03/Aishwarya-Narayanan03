@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aishwarya Narayanan
 - ⚙️ I’m pursuing B.Tech Electrical and Electronics Engineering From SASTRA University, Thanjavur 
-- 📚 I’m currently learning Artificial Intelligence and Data science 
+- 📚 I’m currently learning Data structures and algorithms.
 - 📫 Reach me out: aishnana.03@gmail.com
 
 <!---
