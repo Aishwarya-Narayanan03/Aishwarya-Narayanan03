@@ -1,4 +1,4 @@
-
+#AISHWARYA-NARAYANAN03
 - 👋 Hi, I’m Aishwarya Narayanan
 - ⚙️ I’m pursuing B.Tech Electrical and Electronics Engineering From SASTRA University, Thanjavur 
 - 📚 I’m currently learning Data structures and algorithms.
@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Narayanan03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishwarya-Narayanan03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="200" alt="languages graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Narayanan03&theme=algolia" height="200" alt="github streak"  />
-
-     <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Narayanan03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishwarya-Narayanan03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Narayanan03&theme=algolia" height="150" alt="github streak"  />
         </div>
 
 
