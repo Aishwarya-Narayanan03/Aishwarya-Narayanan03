@@ -15,18 +15,19 @@
 
 
 <div align="center">
-      	<picture>
         <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-Narayanan03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishwarya-Narayanan03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="200" alt="languages graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Narayanan03&theme=algolia" height="200" alt="github streak"  />
-          	</picture>
 </div>
 
 
 <div align="center">
+	      	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aishwarya-Narayanan03/Aishwarya-Narayanan03/snake-output/github-contribution-grid-snake-dark.svg" />
    	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aishwarya-Narayanan03/Aishwarya-Narayanan03/snake-output/github-contribution-grid-snake.svg" />
       	  <img alt="github-snake" src="https://raw.githubusercontent.com/Aishwarya-Narayanan03/Aishwarya-Narayanan03/snake-output/github-contribution-grid-snake-dark.svg" />
+          	</picture>
+</div>
 
 
 
