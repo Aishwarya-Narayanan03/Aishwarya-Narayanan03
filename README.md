@@ -1,4 +1,9 @@
 ###
+
+<h1 align="left">Greetings , I'm Aishwarya Narayanan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://www.linkedin.com/in/neha-anand-927157200/" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/aishwarya-narayananan/" />
+
+
 - 👋 Hi, I’m Aishwarya Narayanan
 - ⚙️ I’m pursuing B.Tech Electrical and Electronics Engineering From SASTRA University, Thanjavur 
 - 📚 I’m currently learning Data structures and algorithms.
