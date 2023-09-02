@@ -1,7 +1,7 @@
 ###
 
 <h1 align="left">Greetings! I'm Aishwarya Narayanan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-  <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://www.linkedin.com/in/neha-anand-927157200/" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/aishwarya-narayananan/" />
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aishwarya-narayananan/)  &nbsp;
 </h1>
 
 
