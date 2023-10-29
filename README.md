@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Greetings! I'm Aishwarya Narayanan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+<h1 align="left">Greetings! I'm Aishwarya Narayanan <img src="https://giphy.com/clips/studiosoriginals-hello-hi-welcome-3zN1M1l1A9Yi2m1pcX" width="40"> 
 </h1>
   
 
