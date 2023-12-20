@@ -4,6 +4,11 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Greetings! I'm Aishwarya Narayanan</h1>
+<p align="center">Enthusiastic <a href="https://Aishwarya-Narayanan03.super.site/">Keen Interest in Software Development </a>, Forget circuits, I'm captivated by code! While the world of electrical engineering ignited my love for problem-solving, it's the dance of algorithms and the magic of innovation in software that truly makes my circuits hum. Today, as I stand on the cusp of graduating with my B.Tech. in Electrical and Electronics Engineering from SASTRA Deemed University, I'm eager to trade voltage meters for IDEs and dive headfirst into the whirlwind of software development.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishwarya-Narayanan03" alt="aishwarya-narayanan03" /> </p>
+
+
 
 
 
