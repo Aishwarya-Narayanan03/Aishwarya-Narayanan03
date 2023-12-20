@@ -6,7 +6,6 @@
 <h1 align="center">Greetings! I'm Aishwarya Narayanan</h1>
 <p align="center">Hailing from a diverse background, with roots in Electrical and Electronics Engineering! Forget circuits, I'm captivated by code! While the world of electrical engineering ignited my love for problem-solving, it's the dance of algorithms and the magic of innovation in software that truly makes my circuits hum. Today, as I stand on the cusp of graduating with my B.Tech. in Electrical and Electronics Engineering from SASTRA Deemed University, I'm eager to trade voltage meters for IDEs and dive headfirst into the whirlwind of software development.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishwarya-Narayanan03" alt="aishwarya-narayanan03" /> </p>
 
 
 
@@ -26,7 +25,7 @@
 
 # 💬 Connect with me !
 <div align="center">
-<a href="https://github.com/Aishwarya-Naryanan03" target="_blank">
+<a href="https://github.com/Aishwarya-Narayanan03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/aishwarya-narayananan/" target="_blank">
@@ -36,7 +35,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 
 
 
