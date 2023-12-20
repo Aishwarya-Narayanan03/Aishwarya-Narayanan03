@@ -29,7 +29,7 @@
 <a href="https://github.com/Aishwarya-Naryanan03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/aishwaya-narayanan" target="_blank">
+<a href="https://www.linkedin.com/in/aishwarya-narayananan/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@aishwarya_narayanan" target="_blank">
@@ -48,7 +48,7 @@
 
 
 
-
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishwarya-Narayanan03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="200" alt="languages graph"  />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Narayanan03&theme=algolia" height="200" alt="github streak"  />
 </div>
